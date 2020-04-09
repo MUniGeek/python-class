@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""Test docstring.
+
+This is a docstring
+"""
+
 print('Is Ava smelly? Answer below')
 answer = input()
 if answer == 'yes':
